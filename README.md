@@ -29,3 +29,13 @@ This is the HR employee's dataset collected from codebasics.
  - This section shows a detailed breakdown of each employee’s presence, WFH, and SL for specific dates in April 2022.
 
 Overall, the dashboard provides a clear overview of employee attendance, work-from-home trends, and sick leave, with insights into specific patterns by date and day of the week.
+
+Project: https://lnkd.in/g9TaW-2C
+
+Develop by:
+Md. Sairul Islam
+Linkdin : https://lnkd.in/gacsTX2s
+Facebook: https://lnkd.in/gkDRZ7sf
+GitHub: https://lnkd.in/gi7j2PxZ
+Portfolio: https://lnkd.in/gBYJMNTq
+
